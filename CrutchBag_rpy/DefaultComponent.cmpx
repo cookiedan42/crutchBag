@@ -25,18 +25,58 @@
 				<IRPYRawContainer type="e">
 					
 						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hname type="a">SysML</_hname>
+							<_hid type="a">GUID d9689b73-885e-44c4-896b-de43defa0a33</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
 							<_hm2Class type="a">ISubsystem</_hm2Class>
-							<_hfilename type="a">.\Default.sbsx</_hfilename>
-							<_hname type="a">Default</_hname>
+							<_hfilename type="a">.\DiagramViews.sbsx</_hfilename>
+							<_hname type="a">DiagramViews</_hname>
 							<_hid type="a">GUID 6a3a5d3d-0f18-445d-8e52-4391e4be8055</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
-							<_hm2Class type="a">IProfile</_hm2Class>
-							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
-							<_hname type="a">SysML</_hname>
-							<_hid type="a">GUID d9689b73-885e-44c4-896b-de43defa0a33</_hid>
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
+							<_hname type="a">RequirementsPkg</_hname>
+							<_hid type="a">GUID 080ddf53-435c-4105-bd81-1747fbde9c68</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\UseCasePkg.sbsx</_hfilename>
+							<_hname type="a">UseCasePkg</_hname>
+							<_hid type="a">GUID 2521a92e-cc56-4b24-9d55-76ef13db3578</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\TestPkg.sbsx</_hfilename>
+							<_hname type="a">TestPkg</_hname>
+							<_hid type="a">GUID 64b721d6-bf11-4211-b8e2-3c684b1290e5</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
+							<_hname type="a">NeedsPkg</_hname>
+							<_hid type="a">GUID b98ee7bf-dd96-42b0-adba-d1f5a93c0bd2</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
+							<_hname type="a">PerfReqPkg</_hname>
+							<_hid type="a">GUID b8bcbb43-bc9f-450d-901a-9f19a06f645b</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>

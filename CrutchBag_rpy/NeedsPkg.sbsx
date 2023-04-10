@@ -40,10 +40,6 @@
 			<_id type="a">GUID 1d309d0c-1719-4e80-974b-057fdb847f85</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FN1_waterproof</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
 			<_modifiedTimeWeak type="a">4.4.2023::7:59:8</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::7:59:8</_modifiedTime>
 			<_lastID type="a">3</_lastID>
@@ -94,10 +90,6 @@
 			<_id type="a">GUID 3041699c-f857-4d64-a7aa-1f7dfad8163f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FN2_durable</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
 			<_modifiedTimeWeak type="a">4.4.2023::8:2:24</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::8:2:24</_modifiedTime>
 			<_lastID type="a">2</_lastID>
@@ -148,10 +140,6 @@
 			<_id type="a">GUID 3dbeef20-8439-4a9a-883f-c8db7118e27d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ON1_secured</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
 			<_modifiedTimeWeak type="a">4.4.2023::8:2:52</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Top Text</_text>
@@ -206,10 +194,6 @@
 			<_id type="a">GUID ca087065-0ef7-48ea-96ca-d7c59cc25b8e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ON2_Removable</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
 			<_modifiedTimeWeak type="a">4.4.2023::8:3:2</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::8:3:2</_modifiedTime>
 			<_lastID type="a">3</_lastID>
@@ -260,10 +244,6 @@
 			<_id type="a">GUID 008d6be5-756e-46e8-a705-ab925462cb2a</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ON3_minCapacity</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
 			<_modifiedTimeWeak type="a">4.4.2023::8:3:11</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::8:3:11</_modifiedTime>
 			<_lastID type="a">3</_lastID>
@@ -314,10 +294,6 @@
 			<_id type="a">GUID 57cdfdb8-05c3-4b46-878e-cff4ea7f4246</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ON4_access</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
 			<_modifiedTimeWeak type="a">4.4.2023::8:8:29</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::8:8:29</_modifiedTime>
 			<_lastID type="a">6</_lastID>
@@ -438,10 +414,6 @@
 			<_id type="a">GUID 8243e9c7-07a0-4c2b-9935-4a71589189cf</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ON5_noHamperMovement</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
 			<_modifiedTimeWeak type="a">4.4.2023::8:3:22</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::8:3:22</_modifiedTime>
 			<_lastID type="a">4</_lastID>
@@ -492,10 +464,6 @@
 			<_id type="a">GUID 4a61048a-c5e3-484d-92f4-c5c93ad7730f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">PN1_lightweight</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
 			<_modifiedTimeWeak type="a">4.4.2023::8:3:29</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::8:3:29</_modifiedTime>
 			<_lastID type="a">3</_lastID>
@@ -546,10 +514,6 @@
 			<_id type="a">GUID 2469e42f-53e3-4d52-85d1-67d894939c99</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">XN_lean</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
 			<_modifiedTimeWeak type="a">4.4.2023::8:8:17</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::8:8:17</_modifiedTime>
 			<_lastID type="a">4</_lastID>
@@ -601,7 +565,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::8:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">

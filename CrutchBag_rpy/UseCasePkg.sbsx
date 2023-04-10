@@ -1887,10 +1887,6 @@
 			<_id type="a">GUID cac7c8c9-bae1-42af-ab3d-a7af6d798caa</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Washing</_name>
-			<OwnedDependencies type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</OwnedDependencies>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.10.2023::7:36:5</_modifiedTime>
 			<_lastID type="a">1</_lastID>
