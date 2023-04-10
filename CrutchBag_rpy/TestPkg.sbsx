@@ -12,18 +12,14 @@
 			<_id type="a">GUID 64b721d6-bf11-4211-b8e2-3c684b1290e5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">TestPkg</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:57:41</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:57:27</_modifiedTime>
-			<_lastID type="a">30</_lastID>
-			<weakCGTime type="a">4.4.2023::8:57:41</weakCGTime>
+			<_modifiedTimeWeak type="a">4.10.2023::9:30:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.10.2023::9:29:51</_modifiedTime>
+			<_lastID type="a">34</_lastID>
+			<weakCGTime type="a">4.10.2023::9:30:21</weakCGTime>
 			<strongCGTime type="a">4.4.2023::8:41:3</strongCGTime>
 			<_defaultComposite type="s">GUID 77fec0a9-a452-454c-b443-9b50756e61da</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<Events type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Events>
-			<_configurationRelatedTime type="a">4.4.2023::8:35:2</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">4.10.2023::7:28:4</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 2d8aab3e-7fd9-4d42-be57-fdefc1c8caa5</value>
 				<value>GUID f6dd6f7c-9a29-4fa5-b049-2b2fa5d843d7</value>
@@ -59,7 +55,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:45:3</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Fill the pouch with 1kg of weight%0D
 Walk with the crutch in normal operation range of motion%0D
@@ -127,7 +123,7 @@ ensure that pouch does not detach, become unstable or detach%0D
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:46:12</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">fill pouch to maximum volume%0D
 measure protrusion on inside</_text>
@@ -190,7 +186,7 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:48:26</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:59:18</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">lean crutch with pouch attached against wall next to seated user. Ensure that user can retrieve their item within stipulated time%0D
 - vary surface that crutch is leaning on</_text>
@@ -253,7 +249,7 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:49:17</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:21</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Fill pouch using different combination of stated personal belongings</_text>
 			</IDescription>
@@ -315,7 +311,7 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:50:7</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:59:48</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">splash closed pouch with water%0D
 spray closed pouch with water to simulate rain%0D
@@ -379,7 +375,7 @@ ensure contents remain dry</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:50:58</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">while standing, attempt to retrieve item from pouch within stipulated time</_text>
 			</IDescription>
@@ -441,7 +437,7 @@ ensure contents remain dry</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:52:24</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">with different weights of contents inside pouch, use crutch as normal operation.%0D
 Ensure no balance issues encountered</_text>
@@ -504,7 +500,7 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:53:24</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">product is attached to crutch</_text>
 			</IDescription>
@@ -566,7 +562,7 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:53:49</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:21</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">time removal od pouch</_text>
 			</IDescription>
@@ -628,7 +624,7 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:54:8</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::8:1:35</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">weigh pouch</_text>
 			</IDescription>
@@ -690,7 +686,7 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:55:25</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">with different weights in pouch and with different extensions of crutch, lean aginst various surface %0D
 test balance?</_text>
@@ -753,7 +749,7 @@ test balance?</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:55:49</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">wash pouch in washing machine and look for damage</_text>
 			</IDescription>
@@ -815,7 +811,7 @@ test balance?</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:57:27</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">while standing with crutch handle at appropriate height, retrieve belongings using each hand</_text>
 			</IDescription>
@@ -1108,6 +1104,56 @@ test balance?</_text>
 										</Properties>
 									</IPropertyMetaclass>
 									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">UseCase</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,140,65</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
 								</IRPYRawContainer>
 							</Metaclasses>
 						</IPropertySubject>
@@ -1159,8 +1205,8 @@ test balance?</_text>
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:57:49</_modifiedTime>
-			<_lastModifiedTime type="a">4.4.2023::8:57:49</_lastModifiedTime>
+			<_modifiedTime type="a">4.10.2023::7:7:17</_modifiedTime>
+			<_lastModifiedTime type="a">4.10.2023::7:7:17</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2441,6 +2487,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_weight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2551,6 +2598,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_protrude</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2661,6 +2709,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_leanAccess</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2771,6 +2820,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_11</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2881,6 +2931,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_13</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2991,6 +3042,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_15</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3101,6 +3153,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_17</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3287,6 +3340,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_19</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3397,6 +3451,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_21</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3507,6 +3562,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_23</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3617,6 +3673,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_25</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3727,6 +3784,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_27</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3837,6 +3895,7 @@ test balance?</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_29</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3939,9 +3998,9 @@ test balance?</_text>
 			<_id type="a">GUID 77fec0a9-a452-454c-b443-9b50756e61da</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:41:3</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::8:0:0</_modifiedTime>
-			<weakCGTime type="a">4.4.2023::8:41:3</weakCGTime>
+			<_modifiedTimeWeak type="a">4.10.2023::7:28:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.10.2023::7:28:4</_modifiedTime>
+			<weakCGTime type="a">4.10.2023::7:28:4</weakCGTime>
 			<strongCGTime type="a">4.4.2023::8:41:3</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">

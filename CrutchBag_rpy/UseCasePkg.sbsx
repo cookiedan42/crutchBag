@@ -12,10 +12,10 @@
 			<_id type="a">GUID 2521a92e-cc56-4b24-9d55-76ef13db3578</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">UseCasePkg</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::7:27:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.10.2023::7:34:38</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::7:27:29</_modifiedTime>
 			<_lastID type="a">14</_lastID>
-			<weakCGTime type="a">4.4.2023::7:27:29</weakCGTime>
+			<weakCGTime type="a">4.10.2023::7:34:38</weakCGTime>
 			<strongCGTime type="a">4.4.2023::7:24:19</strongCGTime>
 			<_defaultComposite type="s">GUID 2ab7f3e8-b682-4b1a-b1fb-2277ff980318</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -1595,7 +1595,7 @@
 			<_id type="a">GUID 462cbb0b-31d8-47aa-830d-da84e5c919ed</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Walking with crutch</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.4.2023::7:17:53</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::7:23:38</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">4.4.2023::7:17:53</weakCGTime>
@@ -1680,10 +1680,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -1733,10 +1729,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -1755,10 +1747,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -1793,7 +1781,7 @@
 			<_id type="a">GUID af3f6dac-aef4-4581-abc8-efc2b094fbfb</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">retrieve while standing</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.4.2023::7:19:42</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::7:19:59</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">4.4.2023::7:19:42</weakCGTime>
@@ -1803,10 +1791,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -1850,7 +1834,7 @@
 			<_id type="a">GUID eb25cdd8-d0e5-428a-a895-6df851277443</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">retrieve while sitting</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.4.2023::7:19:45</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.4.2023::7:20:5</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">4.4.2023::7:19:45</weakCGTime>
@@ -1860,10 +1844,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -1907,8 +1887,13 @@
 			<_id type="a">GUID cac7c8c9-bae1-42af-ab3d-a7af6d798caa</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Washing</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::7:27:32</_modifiedTime>
+			<_modifiedTime type="a">4.10.2023::7:36:5</_modifiedTime>
+			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -1916,10 +1901,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
