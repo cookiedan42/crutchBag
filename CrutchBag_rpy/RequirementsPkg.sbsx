@@ -12,10 +12,10 @@
 			<_id type="a">GUID 080ddf53-435c-4105-bd81-1747fbde9c68</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RequirementsPkg</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:28:4</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:20:11</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:48:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:40:9</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">4.19.2023::9:28:4</weakCGTime>
+			<weakCGTime type="a">4.19.2023::9:48:30</weakCGTime>
 			<strongCGTime type="a">4.4.2023::8:2:46</strongCGTime>
 			<_defaultComposite type="s">GUID f012914f-f553-42bc-ab16-06f73efb3b15</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -197,14 +197,14 @@
 			<_id type="a">GUID 58e8a4dd-3c2a-4c01-805f-4e158b8b929f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Attachment</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::8:51:56</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::8:51:56</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:33:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:33:18</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall be attached to the crutch\par%0D
 }%0D
 </_body>
-			<reqID type="a">ON1.1</reqID>
+			<reqID type="a">OR1.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 2f0990b2-8545-4b6d-b476-e2895c3e50bf</value>
 			</AggregatesList>
@@ -248,14 +248,14 @@
 			<_id type="a">GUID 8c4ed1e1-dc53-44c9-920e-f9abd80b3e03</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">easyWash</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::8:52:26</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::8:52:26</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:33:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:33:40</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall be easy to hand wash\par%0D
 }%0D
 </_body>
-			<reqID type="a">ON2.1</reqID>
+			<reqID type="a">OR2.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 7e94818c-f838-4100-b863-eca841af97ba</value>
 			</AggregatesList>
@@ -299,14 +299,14 @@
 			<_id type="a">GUID 3020590b-288e-4a49-95b5-a13ba506f2fa</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">removeTime</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::8:52:14</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::8:52:14</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:34:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:34:7</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall be removable from the crutch quickly\par%0D
 }%0D
 </_body>
-			<reqID type="a">ON2.2</reqID>
+			<reqID type="a">OR2.2</reqID>
 			<AggregatesList type="e">
 				<value>GUID fc02fd14-6220-4455-a162-63af2067bd8e</value>
 			</AggregatesList>
@@ -1201,9 +1201,9 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:22:10</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:45:42</_modifiedTime>
 			<_lastID type="a">2</_lastID>
-			<_lastModifiedTime type="a">4.19.2023::9:22:10</_lastModifiedTime>
+			<_lastModifiedTime type="a">4.19.2023::9:45:42</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -4121,6 +4121,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
+					<m_str type="a">deriveReqt</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">

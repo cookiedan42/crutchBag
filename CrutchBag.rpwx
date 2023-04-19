@@ -42,9 +42,9 @@
 								<_hid type="a">GUID c5435b2c-4fba-4939-87e3-5e5d357ebea1</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">88 2173 </_UpLeft>
-						<_DownRight type="a">1002 2563 </_DownRight>
-						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<_UpLeft type="a">0 2173 </_UpLeft>
+						<_DownRight type="a">914 2563 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -76,7 +76,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">0 518 </_UpLeft>
 						<_DownRight type="a">950 924 </_DownRight>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -106,9 +106,9 @@
 								<_hid type="a">GUID 2a51c457-468d-485b-a2c6-c4885fd72b3d</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">1613 34 </_UpLeft>
-						<_DownRight type="a">2801 542 </_DownRight>
-						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<_UpLeft type="a">1537 34 </_UpLeft>
+						<_DownRight type="a">2725 542 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -140,7 +140,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">1616 569 </_UpLeft>
 						<_DownRight type="a">2566 975 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -171,14 +171,14 @@
 	- tableMatrixColWidth = {
 		count=1;
 		{ - TableMatrixView
-			id=b254d190-9129-4866-8ba2-d11fb06e9996;
-			colwidth=;-1;188;-1;;
+			id=0e6d6b77-aef0-402e-b56c-d53da0c4b5a3;
+			colwidth=;-1;-1;-1;-1;-1;107;-1;-1;-1;-1;-1;-1;-1;-1;-1;;
 		}
 	}
 
 
 	- tableMatrixRowAdditionHight = {
-		count=4;
+		count=6;
 		{ - TableMatrixView
 			id=335ff539-d06d-4adc-b5c9-24d8c35db0ba;
 			rowAdditionalHight=;;
@@ -191,11 +191,21 @@
 		}
 		{ - TableMatrixView
 			id=5a3b7d10-0451-4b42-bcb7-d52ee9eb7fd8;
-			rowAdditionalHight=;83ef893c-e79e-427d-83ba-2b0c561272dc,26;;
-			rowAdditionalHightExt=;83ef893c-e79e-427d-83ba-2b0c561272dc:13,26;;
+			rowAdditionalHight=;;
+			rowAdditionalHightExt=;
 		}
 		{ - TableMatrixView
 			id=fd28f5b4-cb80-4c33-9a0c-d638a27ad261;
+			rowAdditionalHight=;;
+			rowAdditionalHightExt=;
+		}
+		{ - TableMatrixView
+			id=0e6d6b77-aef0-402e-b56c-d53da0c4b5a3;
+			rowAdditionalHight=;;
+			rowAdditionalHightExt=;
+		}
+		{ - TableMatrixView
+			id=ec438b92-a895-4069-8c3f-8a1a41a82656;
 			rowAdditionalHight=;;
 			rowAdditionalHightExt=;
 		}
