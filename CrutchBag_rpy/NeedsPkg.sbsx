@@ -12,13 +12,13 @@
 			<_id type="a">GUID b98ee7bf-dd96-42b0-adba-d1f5a93c0bd2</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">NeedsPkg</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:8:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::8:49:57</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Top level needs</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:18:21</_modifiedTime>
-			<weakCGTime type="a">4.4.2023::8:8:29</weakCGTime>
+			<_modifiedTime type="a">4.19.2023::8:51:50</_modifiedTime>
+			<weakCGTime type="a">4.19.2023::8:49:57</weakCGTime>
 			<strongCGTime type="a">4.4.2023::8:2:46</strongCGTime>
 			<_defaultComposite type="s">GUID f22adb36-52c6-4721-8f1f-cbc8e9557021</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -39,9 +39,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 1d309d0c-1719-4e80-974b-057fdb847f85</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">FN1_waterproof</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::7:59:8</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::7:59:8</_modifiedTime>
+			<_name type="a">waterproof</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:47:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:47:34</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Must be made of waterproof material\par%0D
@@ -89,9 +89,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 3041699c-f857-4d64-a7aa-1f7dfad8163f</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">FN2_durable</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:2:24</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:2:24</_modifiedTime>
+			<_name type="a">durable</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:47:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:47:40</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Must be durable and long lasting\par%0D
@@ -139,13 +139,13 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 3dbeef20-8439-4a9a-883f-c8db7118e27d</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">ON1_secured</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:2:52</_modifiedTimeWeak>
+			<_name type="a">securedToCrutch</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:47:53</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Top Text</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:2:52</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::8:47:53</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product must be secured on the crutch\par%0D
@@ -193,9 +193,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID ca087065-0ef7-48ea-96ca-d7c59cc25b8e</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">ON2_Removable</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:3:2</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:3:2</_modifiedTime>
+			<_name type="a">Removable</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:2</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product should be easily removable for cleaning and washing \par%0D
@@ -243,9 +243,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 008d6be5-756e-46e8-a705-ab925462cb2a</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">ON3_minCapacity</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:3:11</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:3:11</_modifiedTime>
+			<_name type="a">minCapacity</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:10</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product must minimally carry: A handphone, A small water bottle, Wallet/ purse and Keys\par%0D
@@ -293,9 +293,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 57cdfdb8-05c3-4b46-878e-cff4ea7f4246</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">ON4_access</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:8:29</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:8:29</_modifiedTime>
+			<_name type="a">access</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:16</_modifiedTime>
 			<_lastID type="a">6</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The items held by the product shall be easy to access\par%0D
@@ -413,9 +413,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 8243e9c7-07a0-4c2b-9935-4a71589189cf</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">ON5_noHamperMovement</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:3:22</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:3:22</_modifiedTime>
+			<_name type="a">noHamperMovement</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:22</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall not hamper the user's movements\par%0D
@@ -463,9 +463,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 4a61048a-c5e3-484d-92f4-c5c93ad7730f</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">PN1_lightweight</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:3:29</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:3:29</_modifiedTime>
+			<_name type="a">lightweight</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:28</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Should be lightweight \par%0D
@@ -513,15 +513,16 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 2469e42f-53e3-4d52-85d1-67d894939c99</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">XN_lean</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:8:17</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:8:17</_modifiedTime>
+			<_name type="a">leaning</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:49:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:49:57</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall be usable when user is sitting down and not get in the way\par%0D
 \par%0D
 }%0D
 </_body>
+			<reqID type="a">ON6</reqID>
 			<AggregatesList type="e">
 				<value>GUID d0c4b68e-5f87-47c1-b15e-27a7334b44bb</value>
 			</AggregatesList>

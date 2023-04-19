@@ -12,10 +12,10 @@
 			<_id type="a">GUID 080ddf53-435c-4105-bd81-1747fbde9c68</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RequirementsPkg</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::9:34:11</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::10:24:11</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:28:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:20:11</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">4.10.2023::9:34:11</weakCGTime>
+			<weakCGTime type="a">4.19.2023::9:28:4</weakCGTime>
 			<strongCGTime type="a">4.4.2023::8:2:46</strongCGTime>
 			<_defaultComposite type="s">GUID f012914f-f553-42bc-ab16-06f73efb3b15</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -44,13 +44,14 @@
 			<_id type="a">GUID dc85ef89-f2c0-4437-8335-400476464a68</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SplashProof</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:2:46</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:0:11</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:51:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:51:3</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Objects in the bag should stay dry from rain or splashes when bag is closed\par%0D
 }%0D
 </_body>
+			<reqID type="a">FR1.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 6e746fe5-8425-48bd-b769-517a97f015e2</value>
 			</AggregatesList>
@@ -58,7 +59,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 6e746fe5-8425-48bd-b769-517a97f015e2</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">FN1_waterproof</_name>
+			<_name type="a">waterproof</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -72,14 +73,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::7:59:36</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::7:59:36</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:47:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:47:34</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">FN1_waterproof</_hname>
+					<_hname type="a">waterproof</_hname>
 					<_hid type="a">GUID 1d309d0c-1719-4e80-974b-057fdb847f85</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -94,13 +95,14 @@
 			<_id type="a">GUID bcf1d89b-38b0-4d11-acac-5f67c06c3a68</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">WaterBottle</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:2:46</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:0:22</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:51:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:51:11</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Water spilling from water bottle should not wet other objects being carried\par%0D
 }%0D
 </_body>
+			<reqID type="a">FR1.2</reqID>
 			<AggregatesList type="e">
 				<value>GUID ffad27d3-d35d-4966-a77b-2aee4d2e9ad0</value>
 			</AggregatesList>
@@ -108,7 +110,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID ffad27d3-d35d-4966-a77b-2aee4d2e9ad0</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">FN1_waterproof</_name>
+			<_name type="a">waterproof</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -122,14 +124,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::7:59:33</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::7:59:33</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:47:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:47:34</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">FN1_waterproof</_hname>
+					<_hname type="a">waterproof</_hname>
 					<_hid type="a">GUID 1d309d0c-1719-4e80-974b-057fdb847f85</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -144,13 +146,14 @@
 			<_id type="a">GUID 557699d2-e541-4258-ac00-2d9f292e9bcd</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Durable</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:14:3</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:14:3</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:51:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:51:28</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Product shall made of strong material which is resistant to abrasion\par%0D
 }%0D
 </_body>
+			<reqID type="a">FR2.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 4e19d4c5-3fef-49ed-b04b-1fa46b832b8d</value>
 			</AggregatesList>
@@ -158,7 +161,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 4e19d4c5-3fef-49ed-b04b-1fa46b832b8d</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">FN2_durable</_name>
+			<_name type="a">durable</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -172,14 +175,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:13:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:5:46</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:47:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:47:40</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">FN2_durable</_hname>
+					<_hname type="a">durable</_hname>
 					<_hid type="a">GUID 3041699c-f857-4d64-a7aa-1f7dfad8163f</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -194,13 +197,14 @@
 			<_id type="a">GUID 58e8a4dd-3c2a-4c01-805f-4e158b8b929f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Attachment</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:12:26</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:12:26</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:51:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:51:56</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall be attached to the crutch\par%0D
 }%0D
 </_body>
+			<reqID type="a">ON1.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 2f0990b2-8545-4b6d-b476-e2895c3e50bf</value>
 			</AggregatesList>
@@ -208,7 +212,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 2f0990b2-8545-4b6d-b476-e2895c3e50bf</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ON1_secured</_name>
+			<_name type="a">securedToCrutch</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -222,14 +226,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:5:42</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:5:42</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:47:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:47:53</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON1_secured</_hname>
+					<_hname type="a">securedToCrutch</_hname>
 					<_hid type="a">GUID 3dbeef20-8439-4a9a-883f-c8db7118e27d</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -244,13 +248,14 @@
 			<_id type="a">GUID 8c4ed1e1-dc53-44c9-920e-f9abd80b3e03</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">easyWash</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:14:8</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:14:8</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:52:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:52:26</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 The product shall be machine washable\par%0D
+\viewkind4\uc1\pard\fs20 The product shall be easy to hand wash\par%0D
 }%0D
 </_body>
+			<reqID type="a">ON2.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 7e94818c-f838-4100-b863-eca841af97ba</value>
 			</AggregatesList>
@@ -258,7 +263,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 7e94818c-f838-4100-b863-eca841af97ba</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ON2_Removable</_name>
+			<_name type="a">Removable</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -272,14 +277,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:13:55</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:5:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:2</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON2_Removable</_hname>
+					<_hname type="a">Removable</_hname>
 					<_hid type="a">GUID ca087065-0ef7-48ea-96ca-d7c59cc25b8e</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -294,13 +299,14 @@
 			<_id type="a">GUID 3020590b-288e-4a49-95b5-a13ba506f2fa</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">removeTime</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:15:5</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:15:5</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:52:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:52:14</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall be removable from the crutch quickly\par%0D
 }%0D
 </_body>
+			<reqID type="a">ON2.2</reqID>
 			<AggregatesList type="e">
 				<value>GUID fc02fd14-6220-4455-a162-63af2067bd8e</value>
 			</AggregatesList>
@@ -308,7 +314,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID fc02fd14-6220-4455-a162-63af2067bd8e</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ON2_Removable</_name>
+			<_name type="a">Removable</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -322,14 +328,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:5:55</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:5:55</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:2</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON2_Removable</_hname>
+					<_hname type="a">Removable</_hname>
 					<_hid type="a">GUID ca087065-0ef7-48ea-96ca-d7c59cc25b8e</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -344,13 +350,14 @@
 			<_id type="a">GUID 45214228-b49a-4400-b5bd-2d08faf5629d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">volume</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:16:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:16:9</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:54:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:54:1</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall be able to carry the volume of handphone, small water bottle (500ml), wallet/purse and keys\par%0D
 }%0D
 </_body>
+			<reqID type="a">OR3.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 23af9563-1ba9-499f-8ab1-19318e1220d8</value>
 			</AggregatesList>
@@ -358,7 +365,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 23af9563-1ba9-499f-8ab1-19318e1220d8</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ON3_minCapacity</_name>
+			<_name type="a">minCapacity</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -372,14 +379,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:6:2</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:6:2</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:10</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON3_minCapacity</_hname>
+					<_hname type="a">minCapacity</_hname>
 					<_hid type="a">GUID 008d6be5-756e-46e8-a705-ab925462cb2a</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -394,13 +401,14 @@
 			<_id type="a">GUID e055a694-dd89-4591-b42f-0dced2d55d6b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">weight</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:15:49</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:15:49</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:54:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:54:10</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall be able to carry the weight of handphone, small water bottle(500ml), wallet/purse and keys\par%0D
 }%0D
 </_body>
+			<reqID type="a">OR3.2</reqID>
 			<AggregatesList type="e">
 				<value>GUID 85940d75-4529-421d-bb96-c6c6f5a51ad5</value>
 			</AggregatesList>
@@ -408,7 +416,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 85940d75-4529-421d-bb96-c6c6f5a51ad5</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ON3_minCapacity</_name>
+			<_name type="a">minCapacity</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -422,14 +430,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:6:5</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:6:5</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:10</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON3_minCapacity</_hname>
+					<_hname type="a">minCapacity</_hname>
 					<_hid type="a">GUID 008d6be5-756e-46e8-a705-ab925462cb2a</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -444,13 +452,14 @@
 			<_id type="a">GUID 3170d8ee-ab77-443b-9157-40ca49dfa193</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Position</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:15:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:15:0</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:54:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:54:25</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Product shall be operable while user is standing and using the crutch\par%0D
 }%0D
 </_body>
+			<reqID type="a">OR4.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 409d3c55-8039-4e24-9e20-cf4925e362fb</value>
 			</AggregatesList>
@@ -458,7 +467,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 409d3c55-8039-4e24-9e20-cf4925e362fb</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ON4_access</_name>
+			<_name type="a">access</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -472,14 +481,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:6:10</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:6:10</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:16</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON4_access</_hname>
+					<_hname type="a">access</_hname>
 					<_hid type="a">GUID 57cdfdb8-05c3-4b46-878e-cff4ea7f4246</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -494,13 +503,14 @@
 			<_id type="a">GUID de8260a7-1487-401b-a36b-dbef56214110</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Time</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:15:13</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:15:13</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:54:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:54:35</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Access to items held by the product shall be fast\par%0D
 }%0D
 </_body>
+			<reqID type="a">OR4.2</reqID>
 			<AggregatesList type="e">
 				<value>GUID 54fd0b60-4b9e-42ea-a839-bba05e14fd93</value>
 			</AggregatesList>
@@ -508,7 +518,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 54fd0b60-4b9e-42ea-a839-bba05e14fd93</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ON4_access</_name>
+			<_name type="a">access</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -522,14 +532,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:6:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:6:7</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:16</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON4_access</_hname>
+					<_hname type="a">access</_hname>
 					<_hid type="a">GUID 57cdfdb8-05c3-4b46-878e-cff4ea7f4246</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -544,13 +554,14 @@
 			<_id type="a">GUID aeb3fdf9-ea1d-40a6-9e4d-8e7e458100dc</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Abrasion</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:12:17</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:12:17</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:58:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:58:44</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Product shall not rub against the user's body when walking\par%0D
 }%0D
 </_body>
+			<reqID type="a">OR5.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID f54275cd-5420-4477-96da-f474cabdf4c8</value>
 			</AggregatesList>
@@ -558,7 +569,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID f54275cd-5420-4477-96da-f474cabdf4c8</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ON5_noHamperMovement</_name>
+			<_name type="a">noHamperMovement</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -572,14 +583,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:5:49</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:5:49</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:22</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON5_noHamperMovement</_hname>
+					<_hname type="a">noHamperMovement</_hname>
 					<_hid type="a">GUID 8243e9c7-07a0-4c2b-9935-4a71589189cf</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -594,13 +605,14 @@
 			<_id type="a">GUID 0c864eb1-a5fe-4fee-a86c-06f658533821</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Balance</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:12:32</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:12:32</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:58:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:58:53</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The addition of the Product shall not cause crutch to become unbalanced\par%0D
 }%0D
 </_body>
+			<reqID type="a">OR5.2</reqID>
 			<AggregatesList type="e">
 				<value>GUID 087152ef-3759-4620-a841-db0b36bfb2e9</value>
 			</AggregatesList>
@@ -608,7 +620,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 087152ef-3759-4620-a841-db0b36bfb2e9</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ON5_noHamperMovement</_name>
+			<_name type="a">noHamperMovement</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -622,14 +634,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:5:50</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:5:50</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:22</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON5_noHamperMovement</_hname>
+					<_hname type="a">noHamperMovement</_hname>
 					<_hid type="a">GUID 8243e9c7-07a0-4c2b-9935-4a71589189cf</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -644,13 +656,14 @@
 			<_id type="a">GUID f25ba233-773e-4adf-a92f-5d70578b54f7</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">lightweight</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:14:49</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:14:49</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:54:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:54:48</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Bag shall be lightweight\par%0D
 }%0D
 </_body>
+			<reqID type="a">PR1.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 382c56f6-949c-4475-8097-5c981d1b640a</value>
 			</AggregatesList>
@@ -658,7 +671,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 382c56f6-949c-4475-8097-5c981d1b640a</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">PN1_lightweight</_name>
+			<_name type="a">lightweight</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -672,14 +685,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:5:24</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:5:24</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:48:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:48:28</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">PN1_lightweight</_hname>
+					<_hname type="a">lightweight</_hname>
 					<_hid type="a">GUID 4a61048a-c5e3-484d-92f4-c5c93ad7730f</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -694,14 +707,15 @@
 			<_id type="a">GUID 0f181701-e42c-4e9b-b47b-79a950e9dd58</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">lean</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:14:12</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:14:12</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:55:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:55:6</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The addition of the product shall not prevent user from leaning the crutch against walls and tables\par%0D
 \par%0D
 }%0D
 </_body>
+			<reqID type="a">OR6.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID ce39aa2c-4a56-4ea4-8a68-ce2e03b6d7a4</value>
 			</AggregatesList>
@@ -709,7 +723,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID ce39aa2c-4a56-4ea4-8a68-ce2e03b6d7a4</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">XN_lean</_name>
+			<_name type="a">leaning</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -723,14 +737,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:13:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:5:59</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:49:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:49:57</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">XN_lean</_hname>
+					<_hname type="a">leaning</_hname>
 					<_hid type="a">GUID 2469e42f-53e3-4d52-85d1-67d894939c99</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -745,13 +759,14 @@
 			<_id type="a">GUID 2c0de540-ad85-4dbd-9cfb-0ab196bab3eb</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">lean_access</_name>
-			<_modifiedTimeWeak type="a">4.4.2023::8:20:28</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:20:28</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:55:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:55:53</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 user shall be able to access their posessions while crutch is not in use\par%0D
 }%0D
 </_body>
+			<reqID type="a">OR6.2</reqID>
 			<AggregatesList type="e">
 				<value>GUID 9228b956-e23e-4e12-a808-ddbd0eb444b5</value>
 			</AggregatesList>
@@ -759,27 +774,28 @@
 		<IDependency type="e">
 			<_id type="a">GUID 9228b956-e23e-4e12-a808-ddbd0eb444b5</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">XN_lean</_name>
+			<_name type="a">leaning</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-							<_hname type="a">derive</_hname>
-							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:20:28</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:20:28</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:55:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:55:53</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">XN_lean</_hname>
+					<_hname type="a">leaning</_hname>
 					<_hid type="a">GUID 2469e42f-53e3-4d52-85d1-67d894939c99</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -1185,9 +1201,9 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:59:48</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:22:10</_modifiedTime>
 			<_lastID type="a">2</_lastID>
-			<_lastModifiedTime type="a">4.10.2023::7:59:48</_lastModifiedTime>
+			<_lastModifiedTime type="a">4.19.2023::9:22:10</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1230,7 +1246,7 @@
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<elementList type="a">88</elementList>
+			<elementList type="a">90</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -1288,7 +1304,6 @@
 				<value>GUID 369ce470-35e9-41fa-926d-38003bcb03e4</value>
 				<value>GUID 2fdc08a3-c195-43d3-9952-b1911333e2e0</value>
 				<value>GUID d20eb429-a7a5-4532-97f0-062c1dce1b6f</value>
-				<value>GUID ddcbbaae-ff0b-4b0a-8670-57767b591cac</value>
 				<value>GUID 009f25e6-edf4-4216-9904-24b1bc8e8505</value>
 				<value>GUID 3eebe337-7350-42bf-8f05-1f6231450699</value>
 				<value>GUID d6e0c383-c8c2-4fa7-b1e1-1a21bc187751</value>
@@ -1331,6 +1346,9 @@
 				<value>GUID 25520a3d-07b3-480a-8d00-c23a2d68ba63</value>
 				<value>GUID d27ac5fd-5af1-423b-a395-c3591f36def4</value>
 				<value>GUID f9ecaf9f-6eee-49ed-98d6-c4a42e01446d</value>
+				<value>GUID 6bdc644a-7689-4c52-a374-1dc6c63a081f</value>
+				<value>GUID ddcbbaae-ff0b-4b0a-8670-57767b591cac</value>
+				<value>GUID 79a6457d-4aae-4f03-85c8-fdecb2e46172</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -1445,14 +1463,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">FN1_waterproof</_hname>
+					<_hname type="a">waterproof</_hname>
 					<_hid type="a">GUID 1d309d0c-1719-4e80-974b-057fdb847f85</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">FN1_waterproof</m_str>
+					<m_str type="a">waterproof</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1521,14 +1539,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">FN2_durable</_hname>
+					<_hname type="a">durable</_hname>
 					<_hid type="a">GUID 3041699c-f857-4d64-a7aa-1f7dfad8163f</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">FN2_durable</m_str>
+					<m_str type="a">durable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1597,14 +1615,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON1_secured</_hname>
+					<_hname type="a">securedToCrutch</_hname>
 					<_hid type="a">GUID 3dbeef20-8439-4a9a-883f-c8db7118e27d</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON1_secured</m_str>
+					<m_str type="a">securedToCrutch</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1673,14 +1691,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON2_Removable</_hname>
+					<_hname type="a">Removable</_hname>
 					<_hid type="a">GUID ca087065-0ef7-48ea-96ca-d7c59cc25b8e</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON2_Removable</m_str>
+					<m_str type="a">Removable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1749,14 +1767,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON3_minCapacity</_hname>
+					<_hname type="a">minCapacity</_hname>
 					<_hid type="a">GUID 008d6be5-756e-46e8-a705-ab925462cb2a</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON3_minCapacity</m_str>
+					<m_str type="a">minCapacity</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1825,14 +1843,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON4_access</_hname>
+					<_hname type="a">access</_hname>
 					<_hid type="a">GUID 57cdfdb8-05c3-4b46-878e-cff4ea7f4246</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON4_access</m_str>
+					<m_str type="a">access</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1901,14 +1919,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON5_noHamperMovement</_hname>
+					<_hname type="a">noHamperMovement</_hname>
 					<_hid type="a">GUID 8243e9c7-07a0-4c2b-9935-4a71589189cf</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON5_noHamperMovement</m_str>
+					<m_str type="a">noHamperMovement</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1977,14 +1995,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">PN1_lightweight</_hname>
+					<_hname type="a">lightweight</_hname>
 					<_hid type="a">GUID 4a61048a-c5e3-484d-92f4-c5c93ad7730f</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">PN1_lightweight</m_str>
+					<m_str type="a">lightweight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3002,14 +3020,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_productWeight</_hname>
+					<_hname type="a">productWeight</_hname>
 					<_hid type="a">GUID 625abb1a-f72f-46c2-ac3c-c8b67efda10a</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_productWeight</m_str>
+					<m_str type="a">productWeight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3140,14 +3158,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_durable-TODO</_hname>
+					<_hname type="a">durable</_hname>
 					<_hid type="a">GUID 127524b7-59dc-46a2-bc2b-df5a317ff86a</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_durable-TODO</m_str>
+					<m_str type="a">durable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3278,14 +3296,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_waterbottle</_hname>
+					<_hname type="a">spillProof</_hname>
 					<_hid type="a">GUID 586e7a69-a257-49bd-8d68-fd3606de1861</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_waterbottle</m_str>
+					<m_str type="a">spillProof</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3354,14 +3372,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_splash</_hname>
+					<_hname type="a">splashProof</_hname>
 					<_hid type="a">GUID 45f01b22-d103-4109-935e-36fdf8127c07</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_splash</m_str>
+					<m_str type="a">splashProof</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3430,14 +3448,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_attachment</_hname>
+					<_hname type="a">attachment</_hname>
 					<_hid type="a">GUID 6530d536-62e9-4b82-8d63-298263231ab2</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_attachment</m_str>
+					<m_str type="a">attachment</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3506,14 +3524,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_machine_wash</_hname>
+					<_hname type="a">hand wash</_hname>
 					<_hid type="a">GUID a91a3ff5-f9e8-47a6-8007-c73c71e2343a</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_machine_wash</m_str>
+					<m_str type="a">hand wash</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3582,14 +3600,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_removeTime</_hname>
+					<_hname type="a">removeTime</_hname>
 					<_hid type="a">GUID a42e41f0-340d-4143-8e84-ae1d9898ead9</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_removeTime</m_str>
+					<m_str type="a">removeTime</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3720,14 +3738,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_volume</_hname>
+					<_hname type="a">contentsVolume --TODO</_hname>
 					<_hid type="a">GUID 83ef893c-e79e-427d-83ba-2b0c561272dc</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_volume</m_str>
+					<m_str type="a">contentsVolume --TODO</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3858,14 +3876,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_carryWeight</_hname>
+					<_hname type="a">contentsWeight</_hname>
 					<_hid type="a">GUID 8f5531ea-19a2-42fc-b175-4d0c88451750</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_carryWeight</m_str>
+					<m_str type="a">contentsWeight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3996,14 +4014,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_position</_hname>
+					<_hname type="a">accessComfort</_hname>
 					<_hid type="a">GUID 1b6e691b-72c8-41e9-9645-12e7262492d9</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_position</m_str>
+					<m_str type="a">accessComfort</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4133,14 +4151,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_accessTime</_hname>
+					<_hname type="a">accessTime</_hname>
 					<_hid type="a">GUID 5d020788-9051-4040-8b29-7ae4dae0d422</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_accessTime</m_str>
+					<m_str type="a">accessTime</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4271,14 +4289,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_abrasion</_hname>
+					<_hname type="a">abrasion</_hname>
 					<_hid type="a">GUID 367ee0e1-932d-43e5-9b5a-562496c9be56</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_abrasion</m_str>
+					<m_str type="a">abrasion</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4347,14 +4365,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_balance</_hname>
+					<_hname type="a">balance</_hname>
 					<_hid type="a">GUID 82c6ecec-e429-4c11-b491-e2c40c7b7d8d</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_balance</m_str>
+					<m_str type="a">balance</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4423,14 +4441,14 @@
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">XN_lean</_hname>
+					<_hname type="a">leaning</_hname>
 					<_hid type="a">GUID 2469e42f-53e3-4d52-85d1-67d894939c99</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">XN_lean</m_str>
+					<m_str type="a">leaning</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4559,82 +4577,6 @@
 		</CGICompartment>
 		<CGICompartment type="e">
 			<_id type="a">GUID f5baad58-4fd2-4e60-8ca0-5afa5f7c00bc</_id>
-			<m_name type="a">Specification</m_name>
-			<m_displayOption type="a">All</m_displayOption>
-			<m_bShowInherited type="a">0</m_bShowInherited>
-			<m_bOrdered type="a">0</m_bOrdered>
-		</CGICompartment>
-		<CGIAnnotation type="e">
-			<_id type="a">GUID ddcbbaae-ff0b-4b0a-8670-57767b591cac</_id>
-			<m_type type="a">176</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IRequirement</_hm2Class>
-					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
-					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_lean</_hname>
-					<_hid type="a">GUID 5180c28d-162f-4ec8-9b0b-8192c845b3f8</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_str type="a">perf_lean</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.0793358 0 0 0.186813 2632 830.44 </m_transform>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_AdditionalLabel type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_AdditionalLabel>
-			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
-			<m_nNameFormat type="a">0</m_nNameFormat>
-			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
-&lt;frame name=IDTextCompartment&gt;
-&lt;frame name=SpecificationTextCompartment&gt;</frameset>
-			<_iTempdisplayTextFlag type="a">1</_iTempdisplayTextFlag>
-			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
-			<AggregatesList type="e">
-				<value>GUID cb7dabde-78ef-492b-a539-001cab82dcdf</value>
-				<value>GUID 218069e8-da1a-435f-94cd-2113d830ec52</value>
-			</AggregatesList>
-		</CGIAnnotation>
-		<CGICompartment type="e">
-			<_id type="a">GUID cb7dabde-78ef-492b-a539-001cab82dcdf</_id>
-			<m_name type="a">ID</m_name>
-			<m_displayOption type="a">All</m_displayOption>
-			<m_bShowInherited type="a">0</m_bShowInherited>
-			<m_bOrdered type="a">0</m_bOrdered>
-		</CGICompartment>
-		<CGICompartment type="e">
-			<_id type="a">GUID 218069e8-da1a-435f-94cd-2113d830ec52</_id>
 			<m_name type="a">Specification</m_name>
 			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
@@ -5851,6 +5793,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
+					<m_str type="a">deriveReqt</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -7136,6 +7079,220 @@
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">385 -3 </m_SourcePort>
 			<m_TargetPort type="a">412 1095 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
+		<CGIAnnotation type="e">
+			<_id type="a">GUID 6bdc644a-7689-4c52-a374-1dc6c63a081f</_id>
+			<m_type type="a">176</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
+					<_hname type="a">dryingTime</_hname>
+					<_hid type="a">GUID 9bb2c9fb-8810-49d9-9b4a-13c1082c28a4</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">dryingTime</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.107011 0 0 0.217949 2486 1082.35 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=17%25,83%25&gt;
+&lt;frame name=IDTextCompartment&gt;
+&lt;frame name=SpecificationTextCompartment&gt;</frameset>
+			<_iTempdisplayTextFlag type="a">1</_iTempdisplayTextFlag>
+			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
+			<AggregatesList type="e">
+				<value>GUID 8a0ecba7-980d-479c-aa8e-8800de143208</value>
+				<value>GUID df7c1a08-2de5-44ae-ab1c-8eaebce5e6d5</value>
+			</AggregatesList>
+		</CGIAnnotation>
+		<CGICompartment type="e">
+			<_id type="a">GUID 8a0ecba7-980d-479c-aa8e-8800de143208</_id>
+			<m_name type="a">ID</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID df7c1a08-2de5-44ae-ab1c-8eaebce5e6d5</_id>
+			<m_name type="a">Specification</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGIAnnotation type="e">
+			<_id type="a">GUID ddcbbaae-ff0b-4b0a-8670-57767b591cac</_id>
+			<m_type type="a">176</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
+					<_hname type="a">leanStable</_hname>
+					<_hid type="a">GUID 5180c28d-162f-4ec8-9b0b-8192c845b3f8</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 5489d84a-61b7-4d68-851f-bb50e0cf07cc</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">leanStable</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.0793358 0 0 0.186813 2632 830.44 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
+&lt;frame name=IDTextCompartment&gt;
+&lt;frame name=SpecificationTextCompartment&gt;</frameset>
+			<_iTempdisplayTextFlag type="a">1</_iTempdisplayTextFlag>
+			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
+			<AggregatesList type="e">
+				<value>GUID cb7dabde-78ef-492b-a539-001cab82dcdf</value>
+				<value>GUID 218069e8-da1a-435f-94cd-2113d830ec52</value>
+			</AggregatesList>
+		</CGIAnnotation>
+		<CGICompartment type="e">
+			<_id type="a">GUID cb7dabde-78ef-492b-a539-001cab82dcdf</_id>
+			<m_name type="a">ID</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 218069e8-da1a-435f-94cd-2113d830ec52</_id>
+			<m_name type="a">Specification</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGIInheritance type="e">
+			<_id type="a">GUID 79a6457d-4aae-4f03-85c8-fdecb2e46172</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
+					<_hname type="a">easyWash</_hname>
+					<_hid type="a">GUID 0d453ee1-c140-4731-90c5-4563a016d215</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">easyWash</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 6bdc644a-7689-4c52-a374-1dc6c63a081f</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 5be13134-ee05-4292-93fd-a5c9e210b2c4</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_str type="a">deriveReqt</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">28 -2 </m_SourcePort>
+			<m_TargetPort type="a">958 1095 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>

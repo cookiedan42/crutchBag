@@ -12,11 +12,11 @@
 			<_id type="a">GUID 64b721d6-bf11-4211-b8e2-3c684b1290e5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">TestPkg</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::9:34:11</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::10:24:11</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:28:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
 			<_lastID type="a">34</_lastID>
-			<weakCGTime type="a">4.10.2023::9:34:11</weakCGTime>
-			<strongCGTime type="a">4.4.2023::8:41:3</strongCGTime>
+			<weakCGTime type="a">4.19.2023::9:28:4</weakCGTime>
+			<strongCGTime type="a">4.19.2023::5:14:30</strongCGTime>
 			<_defaultComposite type="s">GUID 77fec0a9-a452-454c-b443-9b50756e61da</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">4.10.2023::7:28:4</_configurationRelatedTime>
@@ -55,7 +55,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:27</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Fill the pouch with 1kg of weight%0D
 Walk with the crutch in normal operation range of motion%0D
@@ -66,7 +66,7 @@ ensure that pouch does not detach, become unstable or detach%0D
 </_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:45:3</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:16:27</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID 1d85e69c-affa-4077-bf87-2c38d503c7fc</value>
@@ -75,7 +75,7 @@ ensure that pouch does not detach, become unstable or detach%0D
 		<IDependency type="e">
 			<_id type="a">GUID 1d85e69c-affa-4077-bf87-2c38d503c7fc</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_carryWeight</_name>
+			<_name type="a">contentsWeight</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -88,14 +88,14 @@ ensure that pouch does not detach, become unstable or detach%0D
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:41:56</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:41:56</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:16:27</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_carryWeight</_hname>
+					<_hname type="a">contentsWeight</_hname>
 					<_hid type="a">GUID 8f5531ea-19a2-42fc-b175-4d0c88451750</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -123,13 +123,13 @@ ensure that pouch does not detach, become unstable or detach%0D
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:0:50</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">fill pouch to maximum volume%0D
 measure protrusion on inside</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:46:12</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:0:41</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID 8d206329-467d-48cf-a904-5418c9446377</value>
@@ -138,7 +138,7 @@ measure protrusion on inside</_text>
 		<IDependency type="e">
 			<_id type="a">GUID 8d206329-467d-48cf-a904-5418c9446377</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_abrasion</_name>
+			<_name type="a">abrasion</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -151,14 +151,14 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:46:12</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:46:12</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:0:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:0:41</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_abrasion</_hname>
+					<_hname type="a">abrasion</_hname>
 					<_hid type="a">GUID 367ee0e1-932d-43e5-9b5a-562496c9be56</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -186,13 +186,13 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:59:18</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:15:16</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">lean crutch with pouch attached against wall next to seated user. Ensure that user can retrieve their item within stipulated time%0D
 - vary surface that crutch is leaning on</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:48:26</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:15:16</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID f496a2e7-ea22-4fa9-8f1d-b2fbc46d85e4</value>
@@ -201,7 +201,7 @@ measure protrusion on inside</_text>
 		<IDependency type="e">
 			<_id type="a">GUID f496a2e7-ea22-4fa9-8f1d-b2fbc46d85e4</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">pref_leanAccess</_name>
+			<_name type="a">leanAccess</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -214,14 +214,14 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:48:26</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:48:26</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:15:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:15:16</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">pref_leanAccess</_hname>
+					<_hname type="a">leanAccess</_hname>
 					<_hid type="a">GUID d25c91a2-419b-45fc-9256-806833320c9b</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -249,12 +249,12 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:21</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:21:50</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Fill pouch using different combination of stated personal belongings</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:49:17</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID 1d28d14e-9e84-41b4-a9fb-d612ddcdb9ae</value>
@@ -263,7 +263,7 @@ measure protrusion on inside</_text>
 		<IDependency type="e">
 			<_id type="a">GUID 1d28d14e-9e84-41b4-a9fb-d612ddcdb9ae</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_volume</_name>
+			<_name type="a">contentsVolume --TODO</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -276,14 +276,14 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:49:17</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:49:17</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:21:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_volume</_hname>
+					<_hname type="a">contentsVolume --TODO</_hname>
 					<_hid type="a">GUID 83ef893c-e79e-427d-83ba-2b0c561272dc</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -311,14 +311,14 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:59:48</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::8:59:55</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">splash closed pouch with water%0D
 spray closed pouch with water to simulate rain%0D
 ensure contents remain dry</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:50:7</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::8:59:55</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID 9ae85ab1-ceeb-4611-9729-3de449a2eca8</value>
@@ -327,7 +327,7 @@ ensure contents remain dry</_text>
 		<IDependency type="e">
 			<_id type="a">GUID 9ae85ab1-ceeb-4611-9729-3de449a2eca8</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_splash</_name>
+			<_name type="a">splashProof</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -340,14 +340,14 @@ ensure contents remain dry</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:50:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:50:7</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::8:59:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:59:55</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_splash</_hname>
+					<_hname type="a">splashProof</_hname>
 					<_hid type="a">GUID 45f01b22-d103-4109-935e-36fdf8127c07</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -375,12 +375,12 @@ ensure contents remain dry</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:17</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">while standing, attempt to retrieve item from pouch within stipulated time</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:50:58</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:16:17</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID bfed5b08-417a-442a-ab10-0d232ef7152e</value>
@@ -389,7 +389,7 @@ ensure contents remain dry</_text>
 		<IDependency type="e">
 			<_id type="a">GUID bfed5b08-417a-442a-ab10-0d232ef7152e</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_accessTime</_name>
+			<_name type="a">accessTime</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -402,14 +402,14 @@ ensure contents remain dry</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:50:58</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:50:58</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:16:17</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_accessTime</_hname>
+					<_hname type="a">accessTime</_hname>
 					<_hid type="a">GUID 5d020788-9051-4040-8b29-7ae4dae0d422</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -437,13 +437,13 @@ ensure contents remain dry</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:21:45</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">with different weights of contents inside pouch, use crutch as normal operation.%0D
 Ensure no balance issues encountered</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:52:24</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:21:32</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID c1418664-1ab4-45c8-94d8-cbac9ab904d0</value>
@@ -452,7 +452,7 @@ Ensure no balance issues encountered</_text>
 		<IDependency type="e">
 			<_id type="a">GUID c1418664-1ab4-45c8-94d8-cbac9ab904d0</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_balance</_name>
+			<_name type="a">balance</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -465,14 +465,14 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:52:24</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:52:24</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:21:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:21:32</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_balance</_hname>
+					<_hname type="a">balance</_hname>
 					<_hid type="a">GUID 82c6ecec-e429-4c11-b491-e2c40c7b7d8d</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -500,12 +500,12 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:1:1</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">product is attached to crutch</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:53:24</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:1:1</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID b2a0a321-df80-4377-a321-8d6f031c3534</value>
@@ -514,7 +514,7 @@ Ensure no balance issues encountered</_text>
 		<IDependency type="e">
 			<_id type="a">GUID b2a0a321-df80-4377-a321-8d6f031c3534</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_attachment</_name>
+			<_name type="a">attachment</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -527,14 +527,14 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:53:24</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:53:24</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:1:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:1:1</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_attachment</_hname>
+					<_hname type="a">attachment</_hname>
 					<_hid type="a">GUID 6530d536-62e9-4b82-8d63-298263231ab2</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -562,12 +562,12 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:21</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:10</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">time removal od pouch</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:53:49</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:16:10</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID 8120e8b8-c02c-4958-ae51-968e0358ab02</value>
@@ -576,7 +576,7 @@ Ensure no balance issues encountered</_text>
 		<IDependency type="e">
 			<_id type="a">GUID 8120e8b8-c02c-4958-ae51-968e0358ab02</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_removeTime</_name>
+			<_name type="a">removeTime</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -589,14 +589,14 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:53:49</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:53:49</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:16:10</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_removeTime</_hname>
+					<_hname type="a">removeTime</_hname>
 					<_hid type="a">GUID a42e41f0-340d-4143-8e84-ae1d9898ead9</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -624,12 +624,12 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::8:1:35</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:15:32</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">weigh pouch</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:54:8</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:15:32</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID 9f7bd258-6cff-4929-b02b-650e18eb9312</value>
@@ -638,7 +638,7 @@ Ensure no balance issues encountered</_text>
 		<IDependency type="e">
 			<_id type="a">GUID 9f7bd258-6cff-4929-b02b-650e18eb9312</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_productWeight</_name>
+			<_name type="a">productWeight</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -651,14 +651,14 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:54:8</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:54:8</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:15:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:15:32</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_productWeight</_hname>
+					<_hname type="a">productWeight</_hname>
 					<_hid type="a">GUID 625abb1a-f72f-46c2-ac3c-c8b67efda10a</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -686,13 +686,13 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:15:22</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">with different weights in pouch and with different extensions of crutch, lean aginst various surface %0D
 test balance?</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:55:25</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:15:22</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID 9784dfa3-dea7-48d0-a473-36cf1e946de3</value>
@@ -701,7 +701,7 @@ test balance?</_text>
 		<IDependency type="e">
 			<_id type="a">GUID 9784dfa3-dea7-48d0-a473-36cf1e946de3</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_lean</_name>
+			<_name type="a">leanStable</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -714,14 +714,14 @@ test balance?</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:55:25</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:55:25</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:15:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:15:22</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_lean</_hname>
+					<_hname type="a">leanStable</_hname>
 					<_hid type="a">GUID 5180c28d-162f-4ec8-9b0b-8192c845b3f8</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -749,12 +749,12 @@ test balance?</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:11:17</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">wash pouch in washing machine and look for damage</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:55:49</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:10:34</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID f524fe6f-f554-4b45-847a-cfeb5a0ca31d</value>
@@ -763,7 +763,7 @@ test balance?</_text>
 		<IDependency type="e">
 			<_id type="a">GUID f524fe6f-f554-4b45-847a-cfeb5a0ca31d</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_machine_wash</_name>
+			<_name type="a">hand wash</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -776,14 +776,14 @@ test balance?</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:55:49</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:55:49</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:10:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:10:34</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_machine_wash</_hname>
+					<_hname type="a">hand wash</_hname>
 					<_hid type="a">GUID a91a3ff5-f9e8-47a6-8007-c73c71e2343a</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -811,12 +811,12 @@ test balance?</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:0</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">while standing with crutch handle at appropriate height, retrieve belongings using each hand</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.4.2023::8:57:27</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:16:0</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID 2ce48f1e-3057-466d-b1cf-9cd4088cc42d</value>
@@ -825,7 +825,7 @@ test balance?</_text>
 		<IDependency type="e">
 			<_id type="a">GUID 2ce48f1e-3057-466d-b1cf-9cd4088cc42d</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">perf_position</_name>
+			<_name type="a">accessComfort</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -838,14 +838,14 @@ test balance?</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.4.2023::8:57:27</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.4.2023::8:57:27</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:16:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_position</_hname>
+					<_hname type="a">accessComfort</_hname>
 					<_hid type="a">GUID 1b6e691b-72c8-41e9-9645-12e7262492d9</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -1205,8 +1205,8 @@ test balance?</_text>
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:7:17</_modifiedTime>
-			<_lastModifiedTime type="a">4.10.2023::7:7:17</_lastModifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
+			<_lastModifiedTime type="a">4.19.2023::9:21:50</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1419,14 +1419,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_abrasion</_hname>
+					<_hname type="a">abrasion</_hname>
 					<_hid type="a">GUID 367ee0e1-932d-43e5-9b5a-562496c9be56</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_abrasion</m_str>
+					<m_str type="a">abrasion</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1495,14 +1495,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_accessTime</_hname>
+					<_hname type="a">accessTime</_hname>
 					<_hid type="a">GUID 5d020788-9051-4040-8b29-7ae4dae0d422</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_accessTime</m_str>
+					<m_str type="a">accessTime</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1571,14 +1571,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_balance</_hname>
+					<_hname type="a">balance</_hname>
 					<_hid type="a">GUID 82c6ecec-e429-4c11-b491-e2c40c7b7d8d</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_balance</m_str>
+					<m_str type="a">balance</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1647,14 +1647,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_carryWeight</_hname>
+					<_hname type="a">contentsWeight</_hname>
 					<_hid type="a">GUID 8f5531ea-19a2-42fc-b175-4d0c88451750</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_carryWeight</m_str>
+					<m_str type="a">contentsWeight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1723,14 +1723,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_durable-TODO</_hname>
+					<_hname type="a">durable</_hname>
 					<_hid type="a">GUID 127524b7-59dc-46a2-bc2b-df5a317ff86a</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_durable-TODO</m_str>
+					<m_str type="a">durable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1799,14 +1799,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_lean</_hname>
+					<_hname type="a">leanStable</_hname>
 					<_hid type="a">GUID 5180c28d-162f-4ec8-9b0b-8192c845b3f8</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_lean</m_str>
+					<m_str type="a">leanStable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1875,14 +1875,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_machine_wash</_hname>
+					<_hname type="a">hand wash</_hname>
 					<_hid type="a">GUID a91a3ff5-f9e8-47a6-8007-c73c71e2343a</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_machine_wash</m_str>
+					<m_str type="a">hand wash</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1951,14 +1951,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_position</_hname>
+					<_hname type="a">accessComfort</_hname>
 					<_hid type="a">GUID 1b6e691b-72c8-41e9-9645-12e7262492d9</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_position</m_str>
+					<m_str type="a">accessComfort</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2027,14 +2027,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_productWeight</_hname>
+					<_hname type="a">productWeight</_hname>
 					<_hid type="a">GUID 625abb1a-f72f-46c2-ac3c-c8b67efda10a</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_productWeight</m_str>
+					<m_str type="a">productWeight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2103,14 +2103,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_removeTime</_hname>
+					<_hname type="a">removeTime</_hname>
 					<_hid type="a">GUID a42e41f0-340d-4143-8e84-ae1d9898ead9</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_removeTime</m_str>
+					<m_str type="a">removeTime</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2179,14 +2179,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_splash</_hname>
+					<_hname type="a">splashProof</_hname>
 					<_hid type="a">GUID 45f01b22-d103-4109-935e-36fdf8127c07</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_splash</m_str>
+					<m_str type="a">splashProof</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2255,14 +2255,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_volume</_hname>
+					<_hname type="a">contentsVolume --TODO</_hname>
 					<_hid type="a">GUID 83ef893c-e79e-427d-83ba-2b0c561272dc</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_volume</m_str>
+					<m_str type="a">contentsVolume --TODO</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2331,14 +2331,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_waterbottle</_hname>
+					<_hname type="a">spillProof</_hname>
 					<_hid type="a">GUID 586e7a69-a257-49bd-8d68-fd3606de1861</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_waterbottle</m_str>
+					<m_str type="a">spillProof</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2407,14 +2407,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">pref_leanAccess</_hname>
+					<_hname type="a">leanAccess</_hname>
 					<_hid type="a">GUID d25c91a2-419b-45fc-9256-806833320c9b</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">pref_leanAccess</m_str>
+					<m_str type="a">leanAccess</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3260,14 +3260,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">perf_attachment</_hname>
+					<_hname type="a">attachment</_hname>
 					<_hid type="a">GUID 6530d536-62e9-4b82-8d63-298263231ab2</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_attachment</m_str>
+					<m_str type="a">attachment</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3998,10 +3998,10 @@ test balance?</_text>
 			<_id type="a">GUID 77fec0a9-a452-454c-b443-9b50756e61da</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:28:4</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::5:14:30</_modifiedTimeWeak>
 			<_modifiedTime type="a">4.10.2023::7:28:4</_modifiedTime>
-			<weakCGTime type="a">4.10.2023::7:28:4</weakCGTime>
-			<strongCGTime type="a">4.4.2023::8:41:3</strongCGTime>
+			<weakCGTime type="a">4.19.2023::5:14:30</weakCGTime>
+			<strongCGTime type="a">4.19.2023::5:14:30</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>

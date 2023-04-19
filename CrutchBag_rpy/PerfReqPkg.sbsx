@@ -12,14 +12,14 @@
 			<_id type="a">GUID b8bcbb43-bc9f-450d-901a-9f19a06f645b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">PerfReqPkg</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::9:34:11</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::9:28:16</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">performance requirements which can be tested</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.10.2023::10:24:11</_modifiedTime>
-			<_lastID type="a">2</_lastID>
-			<weakCGTime type="a">4.10.2023::9:34:11</weakCGTime>
+			<_modifiedTime type="a">4.19.2023::9:22:10</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">4.19.2023::9:28:16</weakCGTime>
 			<strongCGTime type="a">4.4.2023::8:18:49</strongCGTime>
 			<_defaultComposite type="s">GUID 0c88a1b1-ba2d-4ffc-b21f-c6fa5780877d</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -40,6 +40,7 @@
 				<value>GUID 8f5531ea-19a2-42fc-b175-4d0c88451750</value>
 				<value>GUID 83ef893c-e79e-427d-83ba-2b0c561272dc</value>
 				<value>GUID 82c6ecec-e429-4c11-b491-e2c40c7b7d8d</value>
+				<value>GUID 9bb2c9fb-8810-49d9-9b4a-13c1082c28a4</value>
 				<value>GUID 2a51c457-468d-485b-a2c6-c4885fd72b3d</value>
 				<value>GUID 0c88a1b1-ba2d-4ffc-b21f-c6fa5780877d</value>
 				<value>GUID 11fa4c95-62a1-4a57-b302-16dc93870c17</value>
@@ -48,9 +49,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 45f01b22-d103-4109-935e-36fdf8127c07</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_splash</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:59:48</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:59:48</_modifiedTime>
+			<_name type="a">splashProof</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::8:59:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::8:59:55</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 product shall satisfy JIS-4 water resistance standard\par%0D
@@ -125,9 +126,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 586e7a69-a257-49bd-8d68-fd3606de1861</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_waterbottle</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:21</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:21</_modifiedTime>
+			<_name type="a">spillProof</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:0:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:0:17</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 if water from water bottle spills, the other contents of the bag must remain dry\par%0D
@@ -201,12 +202,12 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 367ee0e1-932d-43e5-9b5a-562496c9be56</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_abrasion</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
+			<_name type="a">abrasion</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:0:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:0:50</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 product shall not protrude more than _____ CM toward users leg \par%0D
+\viewkind4\uc1\pard\fs20 product shall not rub against user's leg during normal usage of crutch\par%0D
 }%0D
 </_body>
 			<AggregatesList type="e">
@@ -277,9 +278,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 6530d536-62e9-4b82-8d63-298263231ab2</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_attachment</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
+			<_name type="a">attachment</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:1:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:1:1</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 product shall be attached to the crutch while in use to carry personal posessions\par%0D
@@ -353,12 +354,12 @@
 		<IRequirement type="e">
 			<_id type="a">GUID 127524b7-59dc-46a2-bc2b-df5a317ff86a</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_durable-TODO</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
+			<_name type="a">durable</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:6:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:6:55</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20\par%0D
+\viewkind4\uc1\pard\fs20 product shall be made of durable material which can withstand daily use for at least 1 year\par%0D
 }%0D
 </_body>
 			<AggregatesList type="e">
@@ -429,13 +430,13 @@
 		<IRequirement type="e">
 			<_id type="a">GUID a91a3ff5-f9e8-47a6-8007-c73c71e2343a</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_machine_wash</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
+			<_name type="a">hand wash</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:11:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:11:17</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 Materials used in construction should be durable enough to be undamaged when machine washed\par%0D
-Product should not contain components which might be difficult to dry, eg stuffing\par%0D
+\viewkind4\uc1\pard\fs20 Materials used in construction should be durable enough to be undamaged when hand washed\par%0D
+\par%0D
 }%0D
 </_body>
 			<AggregatesList type="e">
@@ -506,9 +507,9 @@ Product should not contain components which might be difficult to dry, eg stuffi
 		<IRequirement type="e">
 			<_id type="a">GUID 5180c28d-162f-4ec8-9b0b-8192c845b3f8</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_lean</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
+			<_name type="a">leanStable</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:15:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:15:22</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The crutch with the product shall be stable when leaning\par%0D
@@ -583,9 +584,9 @@ Product should not contain components which might be difficult to dry, eg stuffi
 		<IRequirement type="e">
 			<_id type="a">GUID d25c91a2-419b-45fc-9256-806833320c9b</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">pref_leanAccess</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:59:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:59:18</_modifiedTime>
+			<_name type="a">leanAccess</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:15:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:15:16</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 User shall be able to access their posessions while crutch is leaned against table or wall within 30 seconds\par%0D
@@ -633,9 +634,9 @@ Product should not contain components which might be difficult to dry, eg stuffi
 		<IRequirement type="e">
 			<_id type="a">GUID 625abb1a-f72f-46c2-ac3c-c8b67efda10a</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_productWeight</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::8:1:35</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::8:1:35</_modifiedTime>
+			<_name type="a">productWeight</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:15:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:15:32</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Unladen bag must weigh less than 500g\par%0D
@@ -709,9 +710,9 @@ Product should not contain components which might be difficult to dry, eg stuffi
 		<IRequirement type="e">
 			<_id type="a">GUID 1b6e691b-72c8-41e9-9645-12e7262492d9</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_position</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
+			<_name type="a">accessComfort</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:16:0</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 User shall be able to retrieve posessions from the product \par%0D
@@ -774,9 +775,9 @@ Product should not contain components which might be difficult to dry, eg stuffi
 		<IRequirement type="e">
 			<_id type="a">GUID a42e41f0-340d-4143-8e84-ae1d9898ead9</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_removeTime</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:21</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:21</_modifiedTime>
+			<_name type="a">removeTime</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:16:10</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The product shall take no less than 2 minutes to attach to the crutch\par%0D
@@ -851,9 +852,9 @@ The product shall take no less than 2 minutes to remove to the crutch\par%0D
 		<IRequirement type="e">
 			<_id type="a">GUID 5d020788-9051-4040-8b29-7ae4dae0d422</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_accessTime</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
+			<_name type="a">accessTime</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:16:17</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Accessing the items carried by the product shall take no longer than 30 seconds\par%0D
@@ -927,9 +928,9 @@ The product shall take no less than 2 minutes to remove to the crutch\par%0D
 		<IRequirement type="e">
 			<_id type="a">GUID 8f5531ea-19a2-42fc-b175-4d0c88451750</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_carryWeight</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
+			<_name type="a">contentsWeight</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:16:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:16:27</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Product should be able to support at least 1kg of contents\par%0D
@@ -1003,13 +1004,12 @@ The product shall take no less than 2 minutes to remove to the crutch\par%0D
 		<IRequirement type="e">
 			<_id type="a">GUID 83ef893c-e79e-427d-83ba-2b0c561272dc</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_volume</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:21</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:21</_modifiedTime>
+			<_name type="a">contentsVolume --TODO</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:21:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 Product shall have a section of at least &lt;500ml waterBottle size&gt; for water bottle\par%0D
-And a separate section of at least &lt;large phone + purse wallet size&gt; for carrying other belongings such as wallet and phone\par%0D
+\viewkind4\uc1\pard\fs20 Product shall have a section which can hold of at least a 500ml waterBottle, and a separate section capable of holding of at least a phone, wallet and keys\par%0D
 }%0D
 </_body>
 			<AggregatesList type="e">
@@ -1080,13 +1080,13 @@ And a separate section of at least &lt;large phone + purse wallet size&gt; for c
 		<IRequirement type="e">
 			<_id type="a">GUID 82c6ecec-e429-4c11-b491-e2c40c7b7d8d</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">perf_balance</_name>
-			<_modifiedTimeWeak type="a">4.10.2023::7:12:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
+			<_name type="a">balance</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:21:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:21:45</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 product shall be securely attached to the crutch and weight should not shift \par%0D
-It shall not cause control and movement of the crutch to be more challenging\par%0D
+\viewkind4\uc1\pard\fs20 product shall be securely attached to the crutch such that weight does not shift too much\par%0D
+It shall not cause control and movement of the crutch to be more difficult\par%0D
 }%0D
 </_body>
 			<AggregatesList type="e">
@@ -1154,6 +1154,57 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<_modifiedTime type="a">4.10.2023::7:12:20</_modifiedTime>
 			<_value type="a">performance</_value>
 		</ILiteralSpecification>
+		<IRequirement type="e">
+			<_id type="a">GUID 9bb2c9fb-8810-49d9-9b4a-13c1082c28a4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">dryingTime</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::9:22:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:22:10</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 Product can be hang dried within a day after washing\par%0D
+Product shall not contain components which might be difficult to dry, eg stuffing or thick padding\par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID 0d453ee1-c140-4731-90c5-4563a016d215</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 0d453ee1-c140-4731-90c5-4563a016d215</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">easyWash</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.19.2023::9:13:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::9:13:15</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
+					<_hname type="a">easyWash</_hname>
+					<_hid type="a">GUID 8c4ed1e1-dc53-44c9-920e-f9abd80b3e03</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 9bb2c9fb-8810-49d9-9b4a-13c1082c28a4</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
 		<IDiagram type="e">
 			<_id type="a">GUID 2a51c457-468d-485b-a2c6-c4885fd72b3d</_id>
 			<_myState type="a">10240</_myState>
@@ -1429,8 +1480,8 @@ It shall not cause control and movement of the crutch to be more challenging\par
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2023::7:59:48</_modifiedTime>
-			<_lastModifiedTime type="a">4.10.2023::7:59:48</_lastModifiedTime>
+			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
+			<_lastModifiedTime type="a">4.19.2023::9:21:50</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1696,7 +1747,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_abrasion</m_str>
+					<m_str type="a">abrasion</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1769,7 +1820,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_accessTime</m_str>
+					<m_str type="a">accessTime</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1842,7 +1893,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_attachment</m_str>
+					<m_str type="a">attachment</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1915,7 +1966,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_balance</m_str>
+					<m_str type="a">balance</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1988,7 +2039,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_carryWeight</m_str>
+					<m_str type="a">contentsWeight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2061,7 +2112,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_lean</m_str>
+					<m_str type="a">leanStable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2134,7 +2185,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_machine_wash</m_str>
+					<m_str type="a">hand wash</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2207,7 +2258,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_position</m_str>
+					<m_str type="a">accessComfort</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2280,7 +2331,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_productWeight</m_str>
+					<m_str type="a">productWeight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2353,7 +2404,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_removeTime</m_str>
+					<m_str type="a">removeTime</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2426,7 +2477,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_splash</m_str>
+					<m_str type="a">splashProof</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2499,7 +2550,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_volume</m_str>
+					<m_str type="a">contentsVolume --TODO</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2572,7 +2623,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_waterbottle</m_str>
+					<m_str type="a">spillProof</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2645,7 +2696,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">pref_leanAccess</m_str>
+					<m_str type="a">leanAccess</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2718,7 +2769,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">perf_durable-TODO</m_str>
+					<m_str type="a">durable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2787,14 +2838,14 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">FN1_waterproof</_hname>
+					<_hname type="a">waterproof</_hname>
 					<_hid type="a">GUID 1d309d0c-1719-4e80-974b-057fdb847f85</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">FN1_waterproof</m_str>
+					<m_str type="a">waterproof</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2863,14 +2914,14 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">FN2_durable</_hname>
+					<_hname type="a">durable</_hname>
 					<_hid type="a">GUID 3041699c-f857-4d64-a7aa-1f7dfad8163f</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">FN2_durable</m_str>
+					<m_str type="a">durable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2939,14 +2990,14 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON1_secured</_hname>
+					<_hname type="a">securedToCrutch</_hname>
 					<_hid type="a">GUID 3dbeef20-8439-4a9a-883f-c8db7118e27d</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON1_secured</m_str>
+					<m_str type="a">securedToCrutch</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3015,14 +3066,14 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON2_Removable</_hname>
+					<_hname type="a">Removable</_hname>
 					<_hid type="a">GUID ca087065-0ef7-48ea-96ca-d7c59cc25b8e</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON2_Removable</m_str>
+					<m_str type="a">Removable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3091,14 +3142,14 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON3_minCapacity</_hname>
+					<_hname type="a">minCapacity</_hname>
 					<_hid type="a">GUID 008d6be5-756e-46e8-a705-ab925462cb2a</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON3_minCapacity</m_str>
+					<m_str type="a">minCapacity</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3167,14 +3218,14 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON4_access</_hname>
+					<_hname type="a">access</_hname>
 					<_hid type="a">GUID 57cdfdb8-05c3-4b46-878e-cff4ea7f4246</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON4_access</m_str>
+					<m_str type="a">access</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3243,14 +3294,14 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">ON5_noHamperMovement</_hname>
+					<_hname type="a">noHamperMovement</_hname>
 					<_hid type="a">GUID 8243e9c7-07a0-4c2b-9935-4a71589189cf</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ON5_noHamperMovement</m_str>
+					<m_str type="a">noHamperMovement</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3319,14 +3370,14 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">PN1_lightweight</_hname>
+					<_hname type="a">lightweight</_hname>
 					<_hid type="a">GUID 4a61048a-c5e3-484d-92f4-c5c93ad7730f</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">PN1_lightweight</m_str>
+					<m_str type="a">lightweight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3395,14 +3446,14 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\NeedsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">NeedsPkg</_hsubsystem>
-					<_hname type="a">XN_lean</_hname>
+					<_hname type="a">leaning</_hname>
 					<_hid type="a">GUID 2469e42f-53e3-4d52-85d1-67d894939c99</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">XN_lean</m_str>
+					<m_str type="a">leaning</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4669,7 +4720,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">ON5_noHamperMovement</_hname>
+					<_hname type="a">noHamperMovement</_hname>
 					<_hid type="a">GUID f54275cd-5420-4477-96da-f474cabdf4c8</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -4788,7 +4839,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">ON1_secured</_hname>
+					<_hname type="a">securedToCrutch</_hname>
 					<_hid type="a">GUID 2f0990b2-8545-4b6d-b476-e2895c3e50bf</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -4907,7 +4958,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">ON5_noHamperMovement</_hname>
+					<_hname type="a">noHamperMovement</_hname>
 					<_hid type="a">GUID 087152ef-3759-4620-a841-db0b36bfb2e9</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -5026,7 +5077,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">FN2_durable</_hname>
+					<_hname type="a">durable</_hname>
 					<_hid type="a">GUID 4e19d4c5-3fef-49ed-b04b-1fa46b832b8d</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -5145,7 +5196,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">ON2_Removable</_hname>
+					<_hname type="a">Removable</_hname>
 					<_hid type="a">GUID 7e94818c-f838-4100-b863-eca841af97ba</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -5264,7 +5315,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">XN_lean</_hname>
+					<_hname type="a">leaning</_hname>
 					<_hid type="a">GUID ce39aa2c-4a56-4ea4-8a68-ce2e03b6d7a4</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -5383,7 +5434,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">PN1_lightweight</_hname>
+					<_hname type="a">lightweight</_hname>
 					<_hid type="a">GUID 382c56f6-949c-4475-8097-5c981d1b640a</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -5501,7 +5552,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">ON4_access</_hname>
+					<_hname type="a">access</_hname>
 					<_hid type="a">GUID 409d3c55-8039-4e24-9e20-cf4925e362fb</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -5620,7 +5671,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">ON2_Removable</_hname>
+					<_hname type="a">Removable</_hname>
 					<_hid type="a">GUID fc02fd14-6220-4455-a162-63af2067bd8e</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -5708,6 +5759,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
+					<m_str type="a">deriveReqt</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5738,7 +5790,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">FN1_waterproof</_hname>
+					<_hname type="a">waterproof</_hname>
 					<_hid type="a">GUID 6e746fe5-8425-48bd-b769-517a97f015e2</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -5857,7 +5909,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">ON4_access</_hname>
+					<_hname type="a">access</_hname>
 					<_hid type="a">GUID 54fd0b60-4b9e-42ea-a839-bba05e14fd93</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -5976,7 +6028,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">ON3_minCapacity</_hname>
+					<_hname type="a">minCapacity</_hname>
 					<_hid type="a">GUID 23af9563-1ba9-499f-8ab1-19318e1220d8</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -6095,7 +6147,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">FN1_waterproof</_hname>
+					<_hname type="a">waterproof</_hname>
 					<_hid type="a">GUID ffad27d3-d35d-4966-a77b-2aee4d2e9ad0</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -6214,7 +6266,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">ON3_minCapacity</_hname>
+					<_hname type="a">minCapacity</_hname>
 					<_hid type="a">GUID 85940d75-4529-421d-bb96-c6c6f5a51ad5</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -6303,6 +6355,7 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
+					<m_str type="a">deriveReqt</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -6327,13 +6380,48 @@ It shall not cause control and movement of the crutch to be more challenging\par
 		</CGIInheritance>
 		<CGIInheritance type="e">
 			<_id type="a">GUID ae24482d-cf23-4ae1-89f5-8ee0d5538e64</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">derive</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Font.FontColor</_Name>
+													<_Value type="a">0,0,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Underline</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">128</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
-					<_hname type="a">XN_lean</_hname>
+					<_hname type="a">leaning</_hname>
 					<_hid type="a">GUID 9228b956-e23e-4e12-a808-ddbd0eb444b5</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -6364,7 +6452,6 @@ It shall not cause control and movement of the crutch to be more challenging\par
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">derive</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
