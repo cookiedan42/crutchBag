@@ -12,10 +12,10 @@
 			<_id type="a">GUID 6a3a5d3d-0f18-445d-8e52-4391e4be8055</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DiagramViews</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:43:36</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:43:36</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::13:46:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::13:46:0</_modifiedTime>
 			<_lastID type="a">15</_lastID>
-			<weakCGTime type="a">4.19.2023::9:43:36</weakCGTime>
+			<weakCGTime type="a">4.19.2023::13:46:0</weakCGTime>
 			<strongCGTime type="a">4.9.2023::11:21:42</strongCGTime>
 			<_defaultComposite type="s">GUID 98dfe938-07a2-4640-8c52-d8cf3b1b18ce</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -717,6 +717,28 @@
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
 						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TableView</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">TableSortColumnState</_Name>
+													<_Value type="a">1,0,0</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
 							<_Name type="a">Model</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
@@ -756,8 +778,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.19.2023::0:19:22</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::0:19:22</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::13:46:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::13:46:0</_modifiedTime>
 			<LayoutHandle type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ITableLayout</_hm2Class>

@@ -12,10 +12,10 @@
 			<_id type="a">GUID 64b721d6-bf11-4211-b8e2-3c684b1290e5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">TestPkg</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:48:30</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::14:17:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::14:13:37</_modifiedTime>
 			<_lastID type="a">34</_lastID>
-			<weakCGTime type="a">4.19.2023::9:48:30</weakCGTime>
+			<weakCGTime type="a">4.19.2023::14:17:8</weakCGTime>
 			<strongCGTime type="a">4.19.2023::5:14:30</strongCGTime>
 			<_defaultComposite type="s">GUID 77fec0a9-a452-454c-b443-9b50756e61da</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -186,7 +186,7 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.19.2023::9:42:54</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::13:34:41</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">lean crutch with pouch attached against wall next to seated user. Ensure that user can retrieve their item within stipulated time%0D
 - vary surface that crutch is leaning on</_text>
@@ -249,12 +249,12 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.19.2023::9:37:1</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::14:13:37</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Fill pouch using different combination of stated personal belongings</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::14:13:37</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<AggregatesList type="e">
 				<value>GUID 1d28d14e-9e84-41b4-a9fb-d612ddcdb9ae</value>
@@ -263,7 +263,7 @@ measure protrusion on inside</_text>
 		<IDependency type="e">
 			<_id type="a">GUID 1d28d14e-9e84-41b4-a9fb-d612ddcdb9ae</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">contentsVolume --TODO</_name>
+			<_name type="a">contentsVolume</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -276,14 +276,14 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.19.2023::9:21:50</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::14:13:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::14:13:37</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">contentsVolume --TODO</_hname>
+					<_hname type="a">contentsVolume</_hname>
 					<_hid type="a">GUID 83ef893c-e79e-427d-83ba-2b0c561272dc</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -311,7 +311,7 @@ measure protrusion on inside</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.19.2023::9:32:41</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::13:31:46</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">splash closed pouch with water%0D
 spray closed pouch with water to simulate rain%0D
@@ -500,7 +500,7 @@ Ensure no balance issues encountered</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.19.2023::9:33:28</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::13:32:39</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">product is attached to crutch</_text>
 			</IDescription>
@@ -749,7 +749,7 @@ test balance?</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.19.2023::9:34:57</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::13:45:58</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">wash pouch in washing machine and look for damage</_text>
 			</IDescription>
@@ -811,7 +811,7 @@ test balance?</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.19.2023::9:48:28</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::13:33:49</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">while standing with crutch handle at appropriate height, retrieve belongings using each hand</_text>
 			</IDescription>
@@ -1205,8 +1205,8 @@ test balance?</_text>
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:21:50</_modifiedTime>
-			<_lastModifiedTime type="a">4.19.2023::9:21:50</_lastModifiedTime>
+			<_modifiedTime type="a">4.19.2023::14:13:37</_modifiedTime>
+			<_lastModifiedTime type="a">4.19.2023::14:13:37</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2255,14 +2255,14 @@ test balance?</_text>
 					<_hm2Class type="a">IRequirement</_hm2Class>
 					<_hfilename type="a">.\PerfReqPkg.sbsx</_hfilename>
 					<_hsubsystem type="a">PerfReqPkg</_hsubsystem>
-					<_hname type="a">contentsVolume --TODO</_hname>
+					<_hname type="a">contentsVolume</_hname>
 					<_hid type="a">GUID 83ef893c-e79e-427d-83ba-2b0c561272dc</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">contentsVolume --TODO</m_str>
+					<m_str type="a">contentsVolume</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">

@@ -12,14 +12,14 @@
 			<_id type="a">GUID b8bcbb43-bc9f-450d-901a-9f19a06f645b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">PerfReqPkg</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:48:43</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.19.2023::14:17:16</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">performance requirements which can be tested</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.19.2023::9:48:28</_modifiedTime>
+			<_modifiedTime type="a">4.19.2023::14:13:37</_modifiedTime>
 			<_lastID type="a">4</_lastID>
-			<weakCGTime type="a">4.19.2023::9:48:43</weakCGTime>
+			<weakCGTime type="a">4.19.2023::14:17:16</weakCGTime>
 			<strongCGTime type="a">4.4.2023::8:18:49</strongCGTime>
 			<_defaultComposite type="s">GUID 0c88a1b1-ba2d-4ffc-b21f-c6fa5780877d</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -50,12 +50,12 @@
 			<_id type="a">GUID 45f01b22-d103-4109-935e-36fdf8127c07</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">splashProof</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:32:41</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:32:41</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::13:31:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::13:31:46</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 product shall satisfy JIS-4 water resistance standard\par%0D
-- Splahsing water from any direction shall have no harmful effect\par%0D
+- Splashing water from any direction shall have no harmful effect\par%0D
 }%0D
 </_body>
 			<reqID type="a">P_FR1.1</reqID>
@@ -282,11 +282,11 @@
 			<_id type="a">GUID 6530d536-62e9-4b82-8d63-298263231ab2</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">attachment</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:33:28</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:33:28</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::13:32:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::13:32:39</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 product shall be attached to the crutch while in use to carry personal posessions\par%0D
+\viewkind4\uc1\pard\fs20 product shall be attached to the crutch while in use to carry personal possessions\par%0D
 }%0D
 </_body>
 			<reqID type="a">P_OR1.1</reqID>
@@ -359,14 +359,14 @@
 			<_id type="a">GUID 127524b7-59dc-46a2-bc2b-df5a317ff86a</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">durable</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:33:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:33:7</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::13:46:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::13:46:59</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 product shall be made of durable material which can withstand daily use for at least 1 year\par%0D
 }%0D
 </_body>
-			<reqID type="a">P_FR2.1</reqID>
+			<reqID type="a">P1_FR2.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID b9d490fa-8387-4330-be5d-1d8574330cba</value>
 				<value>GUID 71050f6a-2664-49bb-bd4e-c85eac5210c4</value>
@@ -436,15 +436,15 @@
 			<_id type="a">GUID a91a3ff5-f9e8-47a6-8007-c73c71e2343a</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">hand wash</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:34:57</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:34:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::13:45:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::13:45:58</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 Materials used in construction should be durable enough to be undamaged when hand washed\par%0D
 \par%0D
 }%0D
 </_body>
-			<reqID type="a">P_OR2.1</reqID>
+			<reqID type="a">P1_OR2.1</reqID>
 			<AggregatesList type="e">
 				<value>GUID 0bd1724e-bf9b-485a-ae51-646f6469afca</value>
 				<value>GUID f92d3c9e-3e2e-47d6-8b2e-82b9e0bb305d</value>
@@ -592,11 +592,11 @@
 			<_id type="a">GUID d25c91a2-419b-45fc-9256-806833320c9b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">leanAccess</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:42:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:42:54</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::13:34:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::13:34:41</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 User shall be able to access their posessions while crutch is leaned against table or wall within 30 seconds\par%0D
+\viewkind4\uc1\pard\fs20 User shall be able to access their possessions while crutch is leaned against table or wall within 30 seconds\par%0D
 }%0D
 </_body>
 			<reqID type="a">P_OR6.2</reqID>
@@ -720,11 +720,11 @@
 			<_id type="a">GUID 1b6e691b-72c8-41e9-9645-12e7262492d9</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">accessComfort</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:48:28</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:48:28</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.19.2023::13:33:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::13:33:49</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 User shall be able to retrieve posessions from the product \par%0D
+\viewkind4\uc1\pard\fs20 User shall be able to retrieve possessions from the product \par%0D
 - without setting the crutch down\par%0D
 - without bending over too far and becoming unbalanced\par%0D
 }%0D
@@ -1030,12 +1030,12 @@ The product shall take no less than 2 minutes to remove to the crutch\par%0D
 		<IRequirement type="e">
 			<_id type="a">GUID 83ef893c-e79e-427d-83ba-2b0c561272dc</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">contentsVolume --TODO</_name>
-			<_modifiedTimeWeak type="a">4.19.2023::9:37:1</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:37:1</_modifiedTime>
+			<_name type="a">contentsVolume</_name>
+			<_modifiedTimeWeak type="a">4.19.2023::14:13:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.19.2023::14:13:37</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 Product shall have a section which can hold of at least a 500ml waterBottle, and a separate section capable of holding of at least a phone, wallet and keys\par%0D
+\viewkind4\uc1\pard\fs20 Product shall have a section which can hold of at least a 500ml waterBottle, and a separate section capable of holding of at least a phone, wallet and keys of at least 15cm x 8cm x 4cm\par%0D
 }%0D
 </_body>
 			<reqID type="a">P_OR3.1</reqID>
@@ -1509,8 +1509,8 @@ Product shall not contain components which might be difficult to dry, eg stuffin
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.19.2023::9:45:50</_modifiedTime>
-			<_lastModifiedTime type="a">4.19.2023::9:45:50</_lastModifiedTime>
+			<_modifiedTime type="a">4.19.2023::14:13:37</_modifiedTime>
+			<_lastModifiedTime type="a">4.19.2023::14:13:37</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2579,7 +2579,7 @@ Product shall not contain components which might be difficult to dry, eg stuffin
 			<m_pParent type="s">GUID 65362d47-d79e-4a91-9650-41d01ebc1651</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">contentsVolume --TODO</m_str>
+					<m_str type="a">contentsVolume</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
