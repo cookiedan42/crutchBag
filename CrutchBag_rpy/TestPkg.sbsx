@@ -12,10 +12,10 @@
 			<_id type="a">GUID 64b721d6-bf11-4211-b8e2-3c684b1290e5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">TestPkg</_name>
-			<_modifiedTimeWeak type="a">4.20.2023::13:35:46</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.20.2023::13:35:46</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.20.2023::15:15:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.20.2023::15:55:33</_modifiedTime>
 			<_lastID type="a">41</_lastID>
-			<weakCGTime type="a">4.20.2023::13:35:46</weakCGTime>
+			<weakCGTime type="a">4.20.2023::15:15:32</weakCGTime>
 			<strongCGTime type="a">4.19.2023::5:14:30</strongCGTime>
 			<_defaultComposite type="s">GUID 77fec0a9-a452-454c-b443-9b50756e61da</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -1732,6 +1732,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_contentsVolume</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1935,6 +1936,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_contentsWeight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2062,6 +2064,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_leanStable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2417,6 +2420,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_handWash</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2620,6 +2624,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_accessComfort</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2671,6 +2676,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_balance</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2950,6 +2956,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_productWeight</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3229,6 +3236,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_attachment</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3280,6 +3288,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_splash</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3407,6 +3416,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_leanAccess</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3458,6 +3468,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_accessTime</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3509,6 +3520,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_abrasion</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3560,6 +3572,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_removeTime</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4365,6 +4378,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_dryingTime</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4416,6 +4430,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_durable</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4467,6 +4482,7 @@ Check that the phone and wallet are not wet</_text>
 			<m_pParent type="s">GUID 969ae423-4c5a-4a2c-8253-8229186c5834</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">test_spill</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
