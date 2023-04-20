@@ -44,7 +44,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">0 2173 </_UpLeft>
 						<_DownRight type="a">914 2563 </_DownRight>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -76,7 +76,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">0 518 </_UpLeft>
 						<_DownRight type="a">950 924 </_DownRight>
-						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -108,7 +108,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">1537 34 </_UpLeft>
 						<_DownRight type="a">2725 542 </_DownRight>
-						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -140,7 +140,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">1616 569 </_UpLeft>
 						<_DownRight type="a">2566 975 </_DownRight>
-						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -168,29 +168,10 @@
 			</favoritesItem>
 			
 
-	- tableMatrixColWidth = {
+	- tableMatrixRowAdditionHight = {
 		count=1;
 		{ - TableMatrixView
 			id=5a3b7d10-0451-4b42-bcb7-d52ee9eb7fd8;
-			colwidth=;148;-1;-1;;
-		}
-	}
-
-
-	- tableMatrixRowAdditionHight = {
-		count=3;
-		{ - TableMatrixView
-			id=b254d190-9129-4866-8ba2-d11fb06e9996;
-			rowAdditionalHight=;;
-			rowAdditionalHightExt=;
-		}
-		{ - TableMatrixView
-			id=5a3b7d10-0451-4b42-bcb7-d52ee9eb7fd8;
-			rowAdditionalHight=;;
-			rowAdditionalHightExt=;
-		}
-		{ - TableMatrixView
-			id=fd28f5b4-cb80-4c33-9a0c-d638a27ad261;
 			rowAdditionalHight=;;
 			rowAdditionalHightExt=;
 		}
