@@ -26,13 +26,45 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">96</m_nLeft>
+								<m_nTop type="a">96</m_nTop>
+								<m_nRight type="a">1419</m_nRight>
+								<m_nBottom type="a">574</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\CrutchBag_rpy\DiagramViews.sbsx</_hfilename>
+								<_hsubsystem type="a">DiagramViews</_hsubsystem>
+								<_hname type="a">requirements View</_hname>
+								<_hid type="a">GUID 947a5f58-4fee-4c15-b7f8-f6d67d3fbab3</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">14061 5279 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
 								<m_nLeft type="a">160</m_nLeft>
 								<m_nTop type="a">160</m_nTop>
 								<m_nRight type="a">1117</m_nRight>
 								<m_nBottom type="a">625</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IDiagram</_hm2Class>
@@ -42,10 +74,10 @@
 								<_hid type="a">GUID 0a836919-b13a-4bae-a611-7d842b508c8d</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 16 </_UpLeft>
-						<_DownRight type="a">2447 876 </_DownRight>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">6864 2577 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">1</m_bIsActiveView>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
@@ -72,56 +104,10 @@
 			</favoritesItem>
 			
 
-	- tableMatrixColWidth = {
-		count=4;
-		{ - TableMatrixView
-			id=b254d190-9129-4866-8ba2-d11fb06e9996;
-			colwidth=;-1;-1;623;;
-		}
-		{ - TableMatrixView
-			id=25a1b3d1-b5b9-4178-8e33-3a6483097792;
-			colwidth=;-1;1292;;
-		}
-		{ - TableMatrixView
-			id=5a3b7d10-0451-4b42-bcb7-d52ee9eb7fd8;
-			colwidth=;77;-1;660;;
-		}
-		{ - TableMatrixView
-			id=fd28f5b4-cb80-4c33-9a0c-d638a27ad261;
-			colwidth=;-1;-1;722;;
-		}
-	}
-
-
 	- tableMatrixRowAdditionHight = {
-		count=7;
+		count=2;
 		{ - TableMatrixView
 			id=335ff539-d06d-4adc-b5c9-24d8c35db0ba;
-			rowAdditionalHight=;;
-			rowAdditionalHightExt=;
-		}
-		{ - TableMatrixView
-			id=b254d190-9129-4866-8ba2-d11fb06e9996;
-			rowAdditionalHight=;1d309d0c-1719-4e80-974b-057fdb847f85,3;;
-			rowAdditionalHightExt=;1d309d0c-1719-4e80-974b-057fdb847f85:0,3;;
-		}
-		{ - TableMatrixView
-			id=25a1b3d1-b5b9-4178-8e33-3a6483097792;
-			rowAdditionalHight=;0b62f7d2-cf91-4536-aaf8-a7287abae067,20;eb9b26bd-a0c8-487d-9a88-cc06352f27ea,60;f6dd6f7c-9a29-4fa5-b049-2b2fa5d843d7,85;75e2ed8c-ca35-4da5-9bf5-bdc0f1a06d26,86;;
-			rowAdditionalHightExt=;0b62f7d2-cf91-4536-aaf8-a7287abae067:5,20;eb9b26bd-a0c8-487d-9a88-cc06352f27ea:2,60;f6dd6f7c-9a29-4fa5-b049-2b2fa5d843d7:0,85;75e2ed8c-ca35-4da5-9bf5-bdc0f1a06d26:1,86;;
-		}
-		{ - TableMatrixView
-			id=5a3b7d10-0451-4b42-bcb7-d52ee9eb7fd8;
-			rowAdditionalHight=;a42e41f0-340d-4143-8e84-ae1d9898ead9,18;45f01b22-d103-4109-935e-36fdf8127c07,17;1b6e691b-72c8-41e9-9645-12e7262492d9,37;82c6ecec-e429-4c11-b491-e2c40c7b7d8d,17;83ef893c-e79e-427d-83ba-2b0c561272dc,19;9bb2c9fb-8810-49d9-9b4a-13c1082c28a4,19;;
-			rowAdditionalHightExt=;a42e41f0-340d-4143-8e84-ae1d9898ead9:4,18;45f01b22-d103-4109-935e-36fdf8127c07:0,17;1b6e691b-72c8-41e9-9645-12e7262492d9:7,37;82c6ecec-e429-4c11-b491-e2c40c7b7d8d:10,17;83ef893c-e79e-427d-83ba-2b0c561272dc:5,19;9bb2c9fb-8810-49d9-9b4a-13c1082c28a4:15,19;;
-		}
-		{ - TableMatrixView
-			id=fd28f5b4-cb80-4c33-9a0c-d638a27ad261;
-			rowAdditionalHight=;;
-			rowAdditionalHightExt=;
-		}
-		{ - TableMatrixView
-			id=ec438b92-a895-4069-8c3f-8a1a41a82656;
 			rowAdditionalHight=;;
 			rowAdditionalHightExt=;
 		}
